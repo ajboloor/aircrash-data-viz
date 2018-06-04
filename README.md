@@ -1,7 +1,7 @@
 # aircrash-data-viz
 Data visualization of Aircrashes since 1908
 
-Visualization: ![https://ajboloor.github.io/aircrash-data-viz/](https://ajboloor.github.io/aircrash-data-viz/)
+Visualization: [https://ajboloor.github.io/aircrash-data-viz/](https://ajboloor.github.io/aircrash-data-viz/)
 
 Snapshot:
 ![Snapshot](/img/snapshot.png)

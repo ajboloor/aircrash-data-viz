@@ -1,4 +1,4 @@
-# aircrash-data-viz
+# Aircrash Data Visualization
 Data visualization of Aircrashes since 1908
 
 Visualization: [https://ajboloor.github.io/aircrash-data-viz/](https://ajboloor.github.io/aircrash-data-viz/)
@@ -20,5 +20,5 @@ firefox aircrash.html
 ```
 
 ### References:
-![Kaggle Dataset](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
+[Kaggle Dataset](https://www.kaggle.com/saurograndi/airplane-crashes-since-1908)
 
